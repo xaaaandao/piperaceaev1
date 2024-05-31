@@ -1,0 +1,10 @@
+;0
+dst;/home/xandao/Imagens/regions_dataset/RGB/specific_epithet_trusted/Norte/256/10
+color;rgb
+image_size;256
+minimum_image;10
+level_name;specific_epithet_trusted
+region;Norte
+levels;68
+total;2352
+average;34.59
